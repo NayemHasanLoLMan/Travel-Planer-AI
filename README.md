@@ -87,5 +87,11 @@ Inspired by platforms like **Lyila AI**, this system offers an intuitive, chat-f
 - 📱 Mobile app integration
 - 🧭 Map view of itinerary
 - 🗃️ Save/share travel plans
+- 🧳 Personal travel dashboard
 
-🧳 Personal travel dashboard
+
+
+
+### 📄 License
+
+Licensed under the MIT License.
